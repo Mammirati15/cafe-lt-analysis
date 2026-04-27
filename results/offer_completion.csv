@@ -1,0 +1,9 @@
+offer_type,difficulty,reward,duration,times_received,tier1_completions,tier2_completions,tier3_completions,tier1_rate_pct,tier2_rate_pct,tier3_rate_pct
+discount,10,2,10,9594,7439,7439,7345,77.5,77.5,76.6
+discount,7,3,7,9292,6904,6904,6799,74.3,74.3,73.2
+bogo,5,5,5,9007,5666,5666,5585,62.9,62.9,62.0
+bogo,10,10,7,8839,4923,4923,4583,55.7,55.7,51.8
+bogo,10,10,5,8890,4575,4575,4515,51.5,51.5,50.8
+bogo,5,5,7,7755,5032,5032,3699,64.9,64.9,47.7
+discount,10,2,7,7690,4781,4781,3648,62.2,62.2,47.4
+discount,20,5,10,7344,3879,3879,2200,52.8,52.8,30.0

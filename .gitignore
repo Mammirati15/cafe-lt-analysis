@@ -1,0 +1,10 @@
+# Database
+cafe_lt.db
+
+# Source data CSVs, recreatable from xlsx files
+bronze/*.csv
+
+# Python
+__pycache__/
+*.pyc
+venv/

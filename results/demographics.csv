@@ -1,0 +1,185 @@
+gender,age_cohort,income_bracket,tenure_cohort,customer_count,pct_of_total
+M,60+,$40k-$60k,Under 1 year,522,3.5
+M,45-59,$40k-$60k,Under 1 year,476,3.2
+M,60+,$60k-$80k,Under 1 year,470,3.2
+F,60+,$60k-$80k,Under 1 year,436,2.9
+M,45-59,$60k-$80k,Under 1 year,422,2.8
+M,30-44,$40k-$60k,Under 1 year,398,2.7
+F,60+,$80k-$100k,Under 1 year,315,2.1
+F,45-59,$60k-$80k,Under 1 year,309,2.1
+M,Under 30,$40k-$60k,Under 1 year,298,2.0
+M,30-44,$60k-$80k,Under 1 year,296,2.0
+F,60+,$40k-$60k,Under 1 year,255,1.7
+M,60+,$60k-$80k,2-4 years,249,1.7
+F,45-59,$80k-$100k,Under 1 year,238,1.6
+M,45-59,$60k-$80k,2-4 years,237,1.6
+M,60+,Under $40k,Under 1 year,234,1.6
+F,60+,$80k-$100k,2-4 years,230,1.6
+M,60+,$80k-$100k,Under 1 year,229,1.5
+F,60+,$60k-$80k,2-4 years,227,1.5
+F,45-59,$40k-$60k,Under 1 year,224,1.5
+M,45-59,$80k-$100k,Under 1 year,216,1.5
+F,60+,$80k-$100k,1-2 years,215,1.5
+M,30-44,Under $40k,Under 1 year,210,1.4
+M,60+,$40k-$60k,2-4 years,207,1.4
+M,45-59,Under $40k,Under 1 year,205,1.4
+F,60+,$100k+,Under 1 year,202,1.4
+F,60+,$60k-$80k,1-2 years,197,1.3
+M,Under 30,$60k-$80k,Under 1 year,194,1.3
+M,Under 30,Under $40k,Under 1 year,174,1.2
+F,30-44,$40k-$60k,Under 1 year,171,1.2
+M,45-59,$40k-$60k,2-4 years,169,1.1
+M,45-59,$60k-$80k,1-2 years,163,1.1
+F,45-59,$80k-$100k,1-2 years,162,1.1
+M,60+,$80k-$100k,2-4 years,160,1.1
+F,45-59,$60k-$80k,1-2 years,160,1.1
+F,45-59,$60k-$80k,2-4 years,157,1.1
+M,60+,$60k-$80k,1-2 years,156,1.1
+F,45-59,$80k-$100k,2-4 years,153,1.0
+M,30-44,$40k-$60k,2-4 years,150,1.0
+F,30-44,$60k-$80k,Under 1 year,146,1.0
+M,60+,$80k-$100k,1-2 years,144,1.0
+M,60+,$40k-$60k,1-2 years,141,1.0
+M,45-59,$80k-$100k,2-4 years,133,0.9
+M,45-59,$40k-$60k,1-2 years,131,0.9
+F,60+,$100k+,1-2 years,130,0.9
+F,60+,$100k+,2-4 years,123,0.8
+F,60+,$40k-$60k,2-4 years,119,0.8
+M,30-44,$60k-$80k,2-4 years,112,0.8
+F,45-59,$100k+,Under 1 year,112,0.8
+F,45-59,$40k-$60k,2-4 years,111,0.7
+M,45-59,$80k-$100k,1-2 years,110,0.7
+F,60+,Under $40k,Under 1 year,109,0.7
+F,Under 30,$40k-$60k,Under 1 year,102,0.7
+F,45-59,$40k-$60k,1-2 years,100,0.7
+M,Under 30,$40k-$60k,2-4 years,97,0.7
+M,30-44,$40k-$60k,1-2 years,96,0.6
+M,30-44,$60k-$80k,1-2 years,96,0.6
+F,45-59,$100k+,2-4 years,94,0.6
+F,60+,$40k-$60k,1-2 years,88,0.6
+M,60+,$100k+,Under 1 year,88,0.6
+F,30-44,$40k-$60k,2-4 years,85,0.6
+F,45-59,Under $40k,Under 1 year,81,0.5
+F,Under 30,$60k-$80k,Under 1 year,77,0.5
+F,45-59,$100k+,1-2 years,75,0.5
+F,30-44,Under $40k,Under 1 year,69,0.5
+M,60+,Under $40k,2-4 years,69,0.5
+M,60+,$40k-$60k,4+ years,68,0.5
+M,30-44,Under $40k,2-4 years,68,0.5
+M,Under 30,$40k-$60k,1-2 years,68,0.5
+M,45-59,Under $40k,2-4 years,66,0.4
+F,30-44,$40k-$60k,1-2 years,63,0.4
+F,30-44,$60k-$80k,2-4 years,62,0.4
+M,45-59,$60k-$80k,4+ years,62,0.4
+F,30-44,$60k-$80k,1-2 years,62,0.4
+M,60+,$100k+,1-2 years,60,0.4
+M,45-59,$100k+,Under 1 year,59,0.4
+M,Under 30,$60k-$80k,2-4 years,59,0.4
+M,Under 30,Under $40k,2-4 years,58,0.4
+M,45-59,$40k-$60k,4+ years,56,0.4
+M,30-44,$80k-$100k,Under 1 year,55,0.4
+M,60+,$100k+,2-4 years,55,0.4
+M,60+,Under $40k,1-2 years,52,0.4
+M,45-59,Under $40k,1-2 years,50,0.3
+M,30-44,$40k-$60k,4+ years,48,0.3
+M,Under 30,$60k-$80k,1-2 years,47,0.3
+M,45-59,$100k+,2-4 years,46,0.3
+M,60+,$60k-$80k,4+ years,46,0.3
+F,60+,Under $40k,1-2 years,45,0.3
+F,Under 30,$40k-$60k,2-4 years,44,0.3
+F,Under 30,Under $40k,Under 1 year,43,0.3
+F,Under 30,$40k-$60k,1-2 years,42,0.3
+M,30-44,Under $40k,1-2 years,42,0.3
+F,60+,Under $40k,2-4 years,41,0.3
+M,Under 30,Under $40k,1-2 years,40,0.3
+M,45-59,$100k+,1-2 years,38,0.3
+F,30-44,$80k-$100k,Under 1 year,36,0.2
+F,Under 30,$60k-$80k,1-2 years,36,0.2
+M,Under 30,$40k-$60k,4+ years,36,0.2
+F,30-44,Under $40k,1-2 years,34,0.2
+F,Under 30,$60k-$80k,2-4 years,31,0.2
+M,30-44,$80k-$100k,2-4 years,31,0.2
+M,Under 30,$60k-$80k,4+ years,29,0.2
+M,45-59,Under $40k,4+ years,28,0.2
+M,30-44,$60k-$80k,4+ years,27,0.2
+M,30-44,$80k-$100k,1-2 years,27,0.2
+F,60+,$40k-$60k,4+ years,26,0.2
+F,30-44,$80k-$100k,2-4 years,26,0.2
+F,Under 30,Under $40k,2-4 years,26,0.2
+F,45-59,Under $40k,2-4 years,25,0.2
+M,60+,Under $40k,4+ years,24,0.2
+F,30-44,Under $40k,2-4 years,24,0.2
+M,60+,$80k-$100k,4+ years,23,0.2
+F,60+,$60k-$80k,4+ years,22,0.1
+O,60+,$40k-$60k,Under 1 year,21,0.1
+M,Under 30,Under $40k,4+ years,20,0.1
+F,Under 30,Under $40k,1-2 years,19,0.1
+M,45-59,$80k-$100k,4+ years,18,0.1
+O,45-59,$80k-$100k,Under 1 year,18,0.1
+F,45-59,Under $40k,1-2 years,17,0.1
+F,30-44,$80k-$100k,1-2 years,17,0.1
+F,45-59,$40k-$60k,4+ years,17,0.1
+F,30-44,$40k-$60k,4+ years,16,0.1
+M,30-44,Under $40k,4+ years,16,0.1
+F,60+,$80k-$100k,4+ years,14,0.1
+F,45-59,$80k-$100k,4+ years,13,0.1
+O,60+,$60k-$80k,Under 1 year,12,0.1
+F,45-59,$60k-$80k,4+ years,10,0.1
+F,30-44,Under $40k,4+ years,9,0.1
+O,45-59,$40k-$60k,Under 1 year,9,0.1
+O,45-59,$60k-$80k,Under 1 year,8,0.1
+O,60+,$60k-$80k,1-2 years,8,0.1
+F,Under 30,$40k-$60k,4+ years,8,0.1
+M,30-44,$80k-$100k,4+ years,7,0.0
+O,45-59,$60k-$80k,2-4 years,7,0.0
+O,30-44,$40k-$60k,Under 1 year,7,0.0
+O,45-59,$80k-$100k,2-4 years,7,0.0
+O,45-59,$60k-$80k,1-2 years,6,0.0
+O,60+,$40k-$60k,2-4 years,6,0.0
+O,60+,Under $40k,Under 1 year,6,0.0
+F,Under 30,Under $40k,4+ years,6,0.0
+O,60+,$80k-$100k,Under 1 year,6,0.0
+O,30-44,Under $40k,Under 1 year,5,0.0
+O,30-44,$60k-$80k,2-4 years,5,0.0
+O,60+,$80k-$100k,2-4 years,5,0.0
+O,45-59,$80k-$100k,1-2 years,5,0.0
+F,60+,Under $40k,4+ years,5,0.0
+O,Under 30,Under $40k,Under 1 year,5,0.0
+O,30-44,$60k-$80k,Under 1 year,4,0.0
+F,30-44,$60k-$80k,4+ years,4,0.0
+O,30-44,$40k-$60k,1-2 years,4,0.0
+F,Under 30,$60k-$80k,4+ years,4,0.0
+O,60+,$60k-$80k,2-4 years,4,0.0
+O,45-59,$40k-$60k,2-4 years,4,0.0
+O,60+,$80k-$100k,1-2 years,4,0.0
+O,45-59,Under $40k,1-2 years,4,0.0
+O,45-59,$40k-$60k,1-2 years,4,0.0
+O,Under 30,$40k-$60k,Under 1 year,3,0.0
+O,30-44,$40k-$60k,2-4 years,3,0.0
+F,45-59,Under $40k,4+ years,3,0.0
+F,30-44,$100k+,2-4 years,3,0.0
+O,60+,$40k-$60k,1-2 years,3,0.0
+O,45-59,Under $40k,Under 1 year,3,0.0
+O,30-44,$80k-$100k,Under 1 year,3,0.0
+M,30-44,$100k+,2-4 years,2,0.0
+O,Under 30,$60k-$80k,Under 1 year,2,0.0
+O,30-44,$60k-$80k,1-2 years,2,0.0
+O,60+,$40k-$60k,4+ years,2,0.0
+F,60+,$100k+,4+ years,2,0.0
+O,45-59,$80k-$100k,4+ years,2,0.0
+O,Under 30,$40k-$60k,2-4 years,2,0.0
+O,30-44,Under $40k,1-2 years,2,0.0
+O,Under 30,Under $40k,1-2 years,1,0.0
+F,30-44,$80k-$100k,4+ years,1,0.0
+O,30-44,Under $40k,2-4 years,1,0.0
+M,30-44,$100k+,1-2 years,1,0.0
+O,30-44,$100k+,1-2 years,1,0.0
+F,30-44,$100k+,1-2 years,1,0.0
+O,30-44,Under $40k,4+ years,1,0.0
+O,30-44,$40k-$60k,4+ years,1,0.0
+O,Under 30,$40k-$60k,1-2 years,1,0.0
+O,Under 30,$60k-$80k,2-4 years,1,0.0
+O,45-59,$100k+,1-2 years,1,0.0
+O,45-59,$60k-$80k,4+ years,1,0.0
+O,Under 30,$60k-$80k,1-2 years,1,0.0
+O,30-44,$80k-$100k,1-2 years,1,0.0
