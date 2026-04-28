@@ -24,7 +24,7 @@ setup_db.py — DuckDB database setup script
 SQL and DuckDB for query execution with Snowflake-compatible syntax
 Python for DuckDB interface and CSV export
 Tableau for visualization
-Git and GitHub for version control (added late)
+Git and GitHub for version control
 
 ## Data Sources
 Four Excel files simulating 30 days of cafe loyalty activity:
